@@ -1,5 +1,5 @@
 # blogCreator
-This is a test 
+This project is to create a blog post including parts of its functionality.
 
 ## Features:
 - Create and manage blog posts
